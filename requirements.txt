@@ -4,3 +4,4 @@ numpy
 pandas
 opencv-python
 scikit-learn
+pip install --upgrade pip
